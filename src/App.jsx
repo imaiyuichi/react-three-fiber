@@ -62,7 +62,7 @@ function App() {
             imai yuichi
           </Text>
         </PresentationControls>
-        <ContactShadows position-y={-2.0} opacity={0.7} scale={7} blur={2.4} />
+        <ContactShadows position-y={-0.3} opacity={0.7} scale={7} blur={2.4} />
       </Canvas>
     </div>
   );
