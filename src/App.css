@@ -1,9 +1,9 @@
 canvas {
-    height: 100vw !important;
+  height: 100vw !important;
 }
 
 .htmlScreen iframe {
-    width: 1024px;
-    height: 670px;
-    background-color: #fff;
+  width: 1024px;
+  height: 670px;
+  background-color: #fff;
 }
